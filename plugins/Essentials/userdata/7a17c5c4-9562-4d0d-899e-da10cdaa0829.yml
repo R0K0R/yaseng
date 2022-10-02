@@ -1,0 +1,54 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 220.78.9.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1663399974207
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664698683076
+  login: 1664697795118
+money: '0'
+last-account-name: kornq
+logoutlocation:
+  world: 52418c2a-66f3-425e-8ed4-87aa21288810
+  world-name: pvp
+  x: -93.87233723755014
+  y: -30.156784923992106
+  z: 13.040191570236463
+  yaw: 123.16168212890625
+  pitch: 52.46825408935547
+lastlocation:
+  world: 52418c2a-66f3-425e-8ed4-87aa21288810
+  world-name: pvp
+  x: -97.41980555434218
+  y: -60.0
+  z: -3.388380464252532
+  yaw: -122.2626953125
+  pitch: 23.202346801757812
+powertools:
+  diamond_hoe:
+  - fireentity snowball
+  golden_axe:
+  - summon sand
+  iron_hoe:
+  - summon snow_golem
+homes:
+  home:
+    world: 52418c2a-66f3-425e-8ed4-87aa21288810
+    world-name: pvp
+    x: -92.05133845827459
+    y: -60.0
+    z: -7.186915831708331
+    yaw: 49.017417907714844
+    pitch: 22.154605865478516

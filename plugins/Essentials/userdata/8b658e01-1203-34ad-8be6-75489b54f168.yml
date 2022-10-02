@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 59.11.238.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1648818981987
+  login: 1648818889645
+money: '0'
+last-account-name: kornq
+nickname: Chibo_75l
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: -131.1908838711058
+  y: -53.09239603875718
+  z: -190.2068753577885
+  yaw: -2.472604751586914
+  pitch: 15.624391555786133

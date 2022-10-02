@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 218.237.117.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656223796046
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1656226453997
+  login: 1656223784991
+  kits:
+    start: 1650723129435
+money: '0'
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: -76.55291355328953
+  y: -60.0
+  z: 66.13520187336563
+  yaw: -10.574483871459961
+  pitch: 3.9087610244750977
+last-account-name: S_Rko
+homes:
+  home:
+    world: 7640a702-5fca-46d3-ab25-6efbbdef07a5
+    world-name: R0K0RSMP
+    x: 21.235175335903904
+    y: 93.0
+    z: -28.689008628689056
+    yaw: -28.92158317565918
+    pitch: 26.462451934814453
+logoutlocation:
+  world: acfbb81a-e871-4627-b489-bc4de4f23c74
+  world-name: RkoSMP
+  x: 14.699999988079071
+  y: 69.55851744811704
+  z: 62.87625210534372
+  yaw: -166.4825439453125
+  pitch: -90.0

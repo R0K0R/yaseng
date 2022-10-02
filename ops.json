@@ -1,0 +1,86 @@
+[
+  {
+    "uuid": "17ca1d52-683f-44ce-91ab-aea7ecfc1fe0",
+    "name": "Chibo_75",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9b6b8fa2-8135-3045-a73b-51677159209a",
+    "name": "explore_22",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "18981044-383f-39d6-8b30-c2296aaceba1",
+    "name": "mcserver",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "69718230-db81-3c3d-a85d-2883812f5643",
+    "name": "Irene0424",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e134239c-788b-4387-bd8f-cd34e8a4e2f6",
+    "name": "aidenjo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "765e3f6f-5a09-3939-8aaa-6fe19371cb8f",
+    "name": "aidenjo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e3df7e11-dbc2-4b8f-9e7f-e1a8ea97ba71",
+    "name": "RkoGOD",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "deeb20be-85c5-3b22-918b-e96ffbd83429",
+    "name": "S_Rko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8b658e01-1203-34ad-8be6-75489b54f168",
+    "name": "kornq",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cf585bf1-38c2-4ebc-a154-6ac5b78e4f50",
+    "name": "B_sky0804",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "af0e6cce-4979-37ab-bcab-a3aee0e2cbd2",
+    "name": "RkoGOD",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "102e627e-834a-3f5b-b101-01839378caff",
+    "name": "B_sky0804",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2d255cbf-3806-3098-b834-db1ae388c431",
+    "name": "Chibo_75",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7a17c5c4-9562-4d0d-899e-da10cdaa0829",
+    "name": "kornq",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

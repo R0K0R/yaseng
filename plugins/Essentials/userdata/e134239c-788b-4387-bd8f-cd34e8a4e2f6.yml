@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 220.120.102.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664701238778
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664701249778
+  login: 1664697750233
+money: '0'
+last-account-name: aidenjo
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 217.46658168477947
+  y: -28.38184424032189
+  z: -30.14054585511508
+  yaw: 116.85948181152344
+  pitch: 26.115764617919922
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 244.84882333449184
+  y: -17.368624134637447
+  z: -28.605302776763608
+  yaw: 53.93827438354492
+  pitch: 90.0

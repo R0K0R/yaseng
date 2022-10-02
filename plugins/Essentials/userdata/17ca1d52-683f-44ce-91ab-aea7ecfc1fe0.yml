@@ -1,0 +1,52 @@
+teleportenabled: true
+teleportauto: false
+godmode: true
+muted: false
+jailed: false
+ip-address: 218.55.134.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664700176232
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664704037179
+  login: 1664704029959
+money: '0'
+last-account-name: Chibo_75
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 1000.5
+  y: -22.042379787020195
+  z: -999.5
+  yaw: 55.76466369628906
+  pitch: 26.421688079833984
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: -954.6455280331285
+  y: -48.58719536666435
+  z: 1010.9923003607225
+  yaw: -100.76313781738281
+  pitch: 48.96466064453125
+powertools:
+  netherite_sword:
+  - spawnmob iron_golem 10
+  arrow:
+  - fill ~ ~ ~ ~ ~ ~ air
+homes:
+  home:
+    world: 52418c2a-66f3-425e-8ed4-87aa21288810
+    world-name: pvp
+    x: 20.44640192062694
+    y: -61.0
+    z: 3.9247306421441577
+    yaw: 98.55529022216797
+    pitch: 51.47852325439453

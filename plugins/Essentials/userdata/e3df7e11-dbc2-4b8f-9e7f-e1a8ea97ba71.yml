@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.75.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664702954288
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664704124526
+  login: 1664703481919
+money: '0'
+last-account-name: S_Rko
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 227.0092367221369
+  y: -34.0
+  z: -25.03521117077119
+  yaw: -109.19050598144531
+  pitch: 14.715763092041016
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 197.05525263498825
+  y: -34.0
+  z: -24.93455459332907
+  yaw: 92.20387268066406
+  pitch: 21.45838165283203
+powertools:
+  debug_stick:
+  - fireskull
+  bow:
+  - killall entities world
+  sand:
+  - fireball
+  deepslate:
+  - minecraft:tp ^ ^ ^5
+  stone:
+  - minecraft:kill @a[name=!S_Rko]

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.206.223.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1657610217898
+  login: 1657606650206
+money: '0'
+last-account-name: Chibo_75
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: -1049.5178890720329
+  y: -61.0
+  z: 698.6999999880791
+  yaw: -66.560302734375
+  pitch: 89.28031921386719
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: -79.32152530520574
+  y: -18.777841706991786
+  z: -199.59743560897874
+  yaw: 127.45416259765625
+  pitch: 32.67477035522461

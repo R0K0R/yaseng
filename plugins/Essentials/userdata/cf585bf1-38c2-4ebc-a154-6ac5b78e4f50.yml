@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.69.22.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1664684541169
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1664685140125
+  login: 1664681728718
+money: '0'
+last-account-name: brain_big
+lastlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 118.95871275513713
+  y: -9.0
+  z: 219.61148597989373
+  yaw: 69.37294006347656
+  pitch: 51.2270622253418
+logoutlocation:
+  world: a8eee1b0-e48a-42a7-916d-c300272d84e6
+  world-name: world
+  x: 91.39953598074423
+  y: -71.24868865796874
+  z: 268.46364829964836
+  yaw: 78.87015533447266
+  pitch: 34.30295181274414
